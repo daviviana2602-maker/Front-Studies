@@ -3,6 +3,7 @@
 Este repositório contém meus estudos e experimentos com **HTML**, **CSS** e **JavaScript**.  
 Aqui organizo pequenos arquivos e projetos de aprendizado, com foco em **prática e evolução no desenvolvimento frontend**, sempre pensando na aplicação real junto ao backend.
 
+
 ## Por que aprender frontend
 
 Embora meu foco principal seja **backend**, decidi aprender frontend por três motivos:
@@ -11,18 +12,13 @@ Embora meu foco principal seja **backend**, decidi aprender frontend por três m
 2. **Testar minhas próprias APIs** – sabendo como o front consome dados, consigo desenvolver APIs mais eficientes e testar sozinho todo o fluxo.  
 3. **Autonomia em projetos completos** – me torno capaz de criar projetos e freelas sozinho, do backend ao frontend, sem depender de outra pessoa para a interface.
 
-## Estrutura do Repositório
-
-- `html/` → arquivos e exemplos em HTML puro.  
-- `css/` → arquivos de estilo e testes com CSS.  
-- `js/` → scripts e experimentos com JavaScript.  
-- `README.md` → este arquivo, explicando o repositório.
 
 ## Objetivo
 
 - Praticar conceitos fundamentais do frontend.  
 - Testar layouts, estilos e interações simples.  
 - Criar uma base organizada para consultas futuras.  
+
 
 ## Observações
 
